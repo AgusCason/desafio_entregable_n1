@@ -1,3 +1,32 @@
+
+debugger ;
+
+let numero = parseInt(prompt("TABLAS MATEMATICAS. Ingrese el numero de la tabla que desea ver:")) ;
+
+let resultado = 0 ;
+
+let n = 0 ;
+
+console.log( "TABLA DEL ", numero) ;
+
+while( n <= 10 ){
+    
+    resultado = numero * n ;
+
+    console.log( numero , "x" , n , "=" , resultado) ;
+
+    n++ ;
+    
+}
+
+
+
+
+
+
+
+
+
 /* EJERCICIO N1 - CICLO FOR   
 
 debugger ;

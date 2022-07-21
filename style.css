@@ -1,0 +1,14 @@
+html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
+body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;background-color: #ffc44d}
+
+
+.titulo{padding: 10%;text-align: center;}
+.titulo h1{font-size: 350%;text-align: center;}
+.titulo p{font-size: 180%;}
+.btn{display: flex;text-align: center;padding: 2.5%;margin-left: 7%;}
+.btn a{width: 15%;padding: 1.5%;margin-left: 35%;margin-right: 5%;text-decoration: none; color: #ffc44d;background-color: black;border-radius: 5px;font-weight: 600;font-size: 250%;}
+.btn a:hover{background-color: grey;color: black;}
+
+
+.site-footer{color: #ffc44d;background-color: black;text-align: center;font-weight: 500;margin-bottom: -2%;}
+.site-footer p{padding: 2%;}
